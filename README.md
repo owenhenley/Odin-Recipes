@@ -1,2 +1,2 @@
 # Odin-Recipes-
-Foundation Project 1
+Foundations Project 1
