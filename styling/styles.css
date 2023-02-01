@@ -1,0 +1,44 @@
+* {
+    font-family: Tahoma, Verdana;
+}
+
+.header-image {
+    height: auto;
+    width: 400px;
+}
+
+.recipes,
+.ul-list {
+    display: inline-block;
+    text-align: left;
+    max-width: 600px;
+}
+
+.ul-list {
+    border-style: dotted;
+    border-radius: 8px;
+    padding-left: -10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.description-p {
+    display: inline-block;
+    text-align: left;
+    max-width: 600px;
+}
+
+.steps-list {
+    display: inline-block;
+    text-align: left;
+    max-width: 600px;
+}
+
+.index,
+.jessicas-red-beans-and-rice,
+.best-tuna-noodle-casserole,
+.eggplant-parmesan,
+.slow-cooker-salisbury-steak {
+    text-align: center;
+}
